@@ -1,0 +1,24 @@
+body {
+	background: crimson;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tittle {
+	color: aqua;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 25pt;
+}
+
+.move_right {
+	margin-right: 100px;
+}
+
+.links {
+	color: mediumblue;
+	text-decoration: none;
+	border: 1px;
+}
+
+a :hover {
+	color: mediumblue;
+}
